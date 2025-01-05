@@ -1,0 +1,35 @@
+/* Basic styles for the body */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+    text-align: center;
+}
+
+/* Header styles */
+header {
+    background-color: #007acc;
+    color: white;
+    padding: 20px 0;
+}
+
+/* Main content styles */
+main {
+    padding: 20px;
+}
+
+/* Button styles */
+button {
+    background-color: #007acc;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #005999;
+}
